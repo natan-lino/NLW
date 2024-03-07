@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://ncfl1999.github.io/NLW/)
+[Clique aqui para acessar](https://natan-lino.github.io/NLW/)
 
 ## Tecnologias
 
